@@ -71,6 +71,9 @@ You need the MAC address of your remote. In this version, since the lamp uses th
 3.  Ensure your `secrets.yaml` contains `wifi_ssid` and `wifi_password`.
 4.  Flash via OTA or USB Serial.
 
+## 🛡 Disclaimer
+Working with mains voltage (230V) is dangerous. This project is for educational purposes. Always ensure the device is unplugged before modification.
+
 ## 📜 Credits
 * Based on the work by [@syssi](https://github.com/syssi/esphome-yeelight-ceiling-light).
 * Optimized for Single-Core stability.
